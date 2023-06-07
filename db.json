@@ -1,4 +1,5 @@
-[
+{
+"posts": [
     {
       "id": 1,
       "title": "hello"
@@ -11,4 +12,19 @@
       "id": 3,
       "title": "salam"
     }
+],
+    "person": [
+    {
+      "id": 1,
+      "name": "Asmaa"
+    },
+  {
+      "id": 2,
+      "name": "Oumaima"
+    },
+  {
+      "id": 3,
+      "name": "Salma"
+    }
 ]
+}
